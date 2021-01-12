@@ -1,4 +1,4 @@
-# Random-Stats-Generator
+# Pie chart
 
 By Matas Wasilewski
 
